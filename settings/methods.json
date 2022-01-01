@@ -1,0 +1,14 @@
+{
+    "CLDAP": {
+        "apis": {
+            "vortex": "cldap"
+        },
+        "time": 3600
+    },
+    "STOP": {
+        "apis": {
+            "vortex": "stop"
+        },
+        "time": 3600
+    }
+}

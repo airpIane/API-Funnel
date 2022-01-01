@@ -1,0 +1,6 @@
+{
+    "vortex": {
+        "URL": "https://api.vortex-api.com/api?key=KEYHERE&host={host}&port={port}&time={time}&method={method}",
+        "max_time": 200
+    }
+}
